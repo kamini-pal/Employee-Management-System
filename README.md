@@ -52,9 +52,6 @@ The app will run on **http://localhost:3000/**.
 3. Employees **update task status**, and the changes reflect in real-time.
 4. Admin can **track progress** of all assigned tasks.
 
-## 📷 Screenshots (Optional)
-_Add screenshots of the Admin and Employee dashboards for better understanding._
-
 ## 📢 Future Enhancements
 - **User Authentication** (Login system for admin and employees).
 - **Task Notifications** (Real-time alerts for new tasks).
